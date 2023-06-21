@@ -45,6 +45,6 @@ Dark Mode
 
 
 Reference:
-In order to learn the basics of Swift and Firebase, I referenced this very helpful playlist: https://t.ly/iULO
+In order to learn the basics of Swift and Firebase, I referenced this very helpful playlist to guide developing this to-do list app: https://t.ly/iULO
 
 
