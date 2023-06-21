@@ -1,6 +1,9 @@
 # taskgarden
 Task Garden is a simple and feature-rich to-do list app developed using Swift and Xcode, designed specifically for efficient task management. With its seamless integration of Firebase, Task Garden leverages powerful authentication and data storage capabilities, ensuring a secure and reliable user experience.
 
+![image](https://github.com/aditih1800/taskgarden/assets/111460362/dacced32-5cc3-4054-a86d-78ba7bec9ffa)
+
+
 Key Features:
 
 User Login and Account Creation: Task Garden provides a secure login system that allows users to create personalized accounts, ensuring data privacy and personalized task management.
