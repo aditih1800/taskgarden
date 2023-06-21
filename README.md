@@ -17,3 +17,28 @@ Key Features:
 Utilizing the latest advancements in Swift and Xcode, Task Garden showcases expertise in iOS app development. The app's intuitive user interface, coupled with Firebase's robust authentication and real-time data storage, ensures a seamless and efficient task management experience.
 
 Screenshots:
+Light Mode
+
+<img width="420" alt="Screenshot 2023-06-21 at 3 03 40 PM" src="https://github.com/aditih1800/taskgarden/assets/111460362/053ea192-0558-4ed1-b151-edf7dd3de76d">
+
+<img width="400" alt="Screenshot 2023-06-21 at 3 09 44 PM" src="https://github.com/aditih1800/taskgarden/assets/111460362/0b189c4c-151f-4187-acd1-24aea3e9e76c">
+
+<img width="433" alt="Screenshot 2023-06-21 at 3 04 39 PM" src="https://github.com/aditih1800/taskgarden/assets/111460362/c82c1ffa-5b4c-4e7a-a3d9-edf7b16bc02c">
+
+<img width="429" alt="Screenshot 2023-06-21 at 3 05 21 PM" src="https://github.com/aditih1800/taskgarden/assets/111460362/9edcf9d5-22cf-4bf8-b650-e7942b5efe1e">
+
+<img width="427" alt="Screenshot 2023-06-21 at 3 08 53 PM" src="https://github.com/aditih1800/taskgarden/assets/111460362/9a3ddf69-1ba4-4a9e-8909-924fcc5d8594">
+
+<img width="425" alt="Screenshot 2023-06-21 at 3 09 19 PM" src="https://github.com/aditih1800/taskgarden/assets/111460362/d83a1416-32c9-4a7e-bce5-f44d6f95c1ac">
+
+Dark Mode
+
+<img width="470" alt="Screenshot 2023-06-21 at 3 16 09 PM" src="https://github.com/aditih1800/taskgarden/assets/111460362/f2d50d41-96d6-408f-b3c9-ac3ae053b7ab">
+
+<img width="451" alt="Screenshot 2023-06-21 at 3 15 28 PM" src="https://github.com/aditih1800/taskgarden/assets/111460362/e30edc2b-6398-452e-9a08-b388055206df">
+
+<img width="440" alt="Screenshot 2023-06-21 at 3 15 49 PM" src="https://github.com/aditih1800/taskgarden/assets/111460362/d720d6ac-34cd-4cfe-bf48-e20a87a98b90">
+
+Reference:
+
+
