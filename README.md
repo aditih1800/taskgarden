@@ -41,6 +41,10 @@ Dark Mode
 
 <img width="220" alt="Screenshot 2023-06-21 at 3 15 49 PM" src="https://github.com/aditih1800/taskgarden/assets/111460362/d720d6ac-34cd-4cfe-bf48-e20a87a98b90">
 
+
+
+
 Reference:
+In order to learn the basics of Swift and Firebase, I referenced this very helpful playlist: https://t.ly/iULO
 
 
